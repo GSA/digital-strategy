@@ -25,7 +25,7 @@ Files
 
 Reporting
 ---------
-To comply with the presidential memorandum's reporting requirements, each reporting agency should generate `digitalstrategy.xml` and digitalstrategy.json` files which meet the schema described herein and should place such files at the top level of their primary domain e.g., `agency.gov/digitalstrategy.json` and `agency.gov/digitalstrategy.xml`. A human-readable version of the same information (not restricted to any specific format or schema) should also be placed at `agency.gov/digitalstrategy` or `agency.gov/digitalstrategy.html` for agenies with a content management system or similar publishing platform.
+To comply with the presidential memorandum's reporting requirements, each reporting agency should generate `digitalstrategy.xml` and `digitalstrategy.json` files which meet the schema described herein and should place such files at the top level of their primary domain e.g., `agency.gov/digitalstrategy.json` and `agency.gov/digitalstrategy.xml`. A human-readable version of the same information (not restricted to any specific format or schema) should also be placed at `agency.gov/digitalstrategy` or `agency.gov/digitalstrategy.html` for agenies with a content management system or similar publishing platform.
 
 Data Types and Standards
 ------------------------
