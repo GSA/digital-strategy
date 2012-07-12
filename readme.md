@@ -3,6 +3,19 @@ Digital Government Strategy
 
 This repository serves as the canonical machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress. Citizen developers are encouraged to use this information to build applications and tools.
 
+API
+---
+
+The files contained in this repository are available as a psuedo-service using the following syntax:
+
+`https://raw.github.com/GSA/digital-strategy/{api_version}/{file}.{format}`
+
+Example:
+
+[`https://raw.github.com/GSA/digital-strategy/1/agencies.xml`](https://raw.github.com/GSA/digital-strategy/1/agencies.xml)
+[`https://raw.github.com/GSA/digital-strategy/1/items.json`](https://raw.github.com/GSA/digital-strategy/1/items.json)
+
+
 Files
 -----
 
@@ -64,8 +77,6 @@ In XML this is represented as:
   </agencies>
 </agencies>
 ```
-
-Note: Both files are available as a service at `http://raw.github.com/gsa/agencies.{format}` ( [JSON](https://raw.github.com/gsa/digital-strategy/1/agencies.json) | [XML](httsp://raw.github.com/gsa/digital-strategy/1/agencies.xml) )
 
 Items
 -----
