@@ -1,0 +1,438 @@
+<?xml version="1.0"?>
+<agencies>
+  <generated>2012-07-12 10:46:19</generated>
+  <agencies>
+    <agency id="acus">
+      <name>Administrative Conference of the United States (ACUS)</name>
+      <url>www.acus.gov</url>
+    </agency>
+    <agency id="achp">
+      <name>Advisory Council on Historic Preservation (ACHP)</name>
+      <url>www.achp.gov</url>
+    </agency>
+    <agency id="adf">
+      <name>African Development Foundation (ADF)</name>
+      <url>www.adf.gov</url>
+    </agency>
+    <agency id="usaid">
+      <name>United States Agency for International Development (USAID)</name>
+      <url>www.usaid.gov</url>
+    </agency>
+    <agency id="usda">
+      <name>Department of Agriculture (USDA)</name>
+      <url>www.usda.gov</url>
+    </agency>
+    <agency id="amtrak">
+      <name>AMTRAK (National Railroad Passenger Corporation)</name>
+      <url>www.amtrak.com</url>
+    </agency>
+    <agency id="bbg">
+      <name>Broadcasting Board of Governors, International Broadcasting Bureau (BBG)</name>
+      <url>www.bbg.gov</url>
+    </agency>
+    <agency id="cia">
+      <name>Central Intelligence Agency (CIA)</name>
+      <url>www.cia.gov</url>
+    </agency>
+    <agency id="commerce">
+      <name>Department of Commerce</name>
+      <url>www.commerce.gov</url>
+    </agency>
+    <agency id="usccr">
+      <name>Commission on Civil Rights (USCCR)</name>
+      <url>www.usccr.gov</url>
+    </agency>
+    <agency id="cftc">
+      <name>Commodity Futures Trading Commission (CFTC)</name>
+      <url>www.cftc.gov</url>
+    </agency>
+    <agency id="cpsc">
+      <name>Consumer Product Safety Commission (CPSC)</name>
+      <url>www.cpsc.gov, www.serve.gov</url>
+    </agency>
+    <agency id="nationalservice">
+      <name>Corporation for National and Community Service (CNCS)</name>
+      <url>www.nationalservice.gov</url>
+    </agency>
+    <agency id="csosa">
+      <name>Court Services and Offender Supervision Agency for the District of Columbia (CSOSA)</name>
+      <url>www.csosa.gov</url>
+    </agency>
+    <agency id="dnfsb">
+      <name>Defense Nuclear Facilities Safety Board (DNFSB)</name>
+      <url>www.dnfsb.gov</url>
+    </agency>
+    <agency id="defense">
+      <name>Department of Defense (DOD)</name>
+      <url>www.defense.gov</url>
+    </agency>
+    <agency id="ed">
+      <name>Department of Education (ED)</name>
+      <url>www.ed.gov</url>
+    </agency>
+    <agency id="eac">
+      <name>Election Assistance Commission (EAC)</name>
+      <url>www.eac.gov</url>
+    </agency>
+    <agency id="energy">
+      <name>Department of Energy (DOE)</name>
+      <url>www.energy.gov</url>
+    </agency>
+    <agency id="epa">
+      <name>Environmental Protection Agency (EPA)</name>
+      <url>www.epa.gov</url>
+    </agency>
+    <agency id="eeoc">
+      <name>Equal Employment Opportunity Commission (EEOC)</name>
+      <url>www.eeoc.gov</url>
+    </agency>
+    <agency id="exim">
+      <name>Export-Import Bank of the United States (EXIM)</name>
+      <url>www.exim.gov</url>
+    </agency>
+    <agency id="fca">
+      <name>Farm Credit Administration (FCA)</name>
+      <url>www.fca.gov</url>
+    </agency>
+    <agency id="fcc">
+      <name>Federal Communications Commission (FCC)</name>
+      <url>www.fcc.gov</url>
+    </agency>
+    <agency id="fdic">
+      <name>Federal Deposit Insurance Corporation (FDIC)</name>
+      <url>www.fdic.gov</url>
+    </agency>
+    <agency id="fec">
+      <name>Federal Election Commission (FEC)</name>
+      <url>www.fec.gov</url>
+    </agency>
+    <agency id="ferc">
+      <name>Federal Energy Regulatory Commission (FERC)</name>
+      <url>www.ferc.gov</url>
+    </agency>
+    <agency id="fhfa">
+      <name>Federal Housing Finance Board (FHFA)</name>
+      <url>www.fhfa.gov</url>
+    </agency>
+    <agency id="flra">
+      <name>Federal Labor Relations Authority (FLRA)</name>
+      <url>www.flra.gov</url>
+    </agency>
+    <agency id="fmc">
+      <name>Federal Maritime Commission (FMC)</name>
+      <url>www.fmc.gov</url>
+    </agency>
+    <agency id="fmcs">
+      <name>Federal Mediation and Conciliation Service (FMCS)</name>
+      <url>www.fmcs.gov</url>
+    </agency>
+    <agency id="fmshrc">
+      <name>Federal Mine Safety and Health Review Commission (FMSHRC)</name>
+      <url>www.fmshrc.gov</url>
+    </agency>
+    <agency id="federalreserve">
+      <name>Federal Reserve System</name>
+      <url>www.federalreserve.gov</url>
+    </agency>
+    <agency id="frtib">
+      <name>Federal Retirement Thrift Investment Board (FRTIB)</name>
+      <url>www.frtib.gov</url>
+    </agency>
+    <agency id="ftc">
+      <name>Federal Trade Commission (FTC)</name>
+      <url>www.ftc.gov</url>
+    </agency>
+    <agency id="gsa">
+      <name>General Services Administration (GSA)</name>
+      <url>www.gsa.gov</url>
+    </agency>
+    <agency id="hhs">
+      <name>Department of Health and Human Services (HHS)</name>
+      <url>www.hhs.gov</url>
+    </agency>
+    <agency id="dhs">
+      <name>Department of Homeland Security (DHS)</name>
+      <url>www.dhs.gov</url>
+    </agency>
+    <agency id="hud">
+      <name>Department of Housing and Urban Development (HUD)</name>
+      <url>www.hud.gov</url>
+    </agency>
+    <agency id="imls">
+      <name>Institute of Museum and Library Services (IMLS)</name>
+      <url>www.imls.gov</url>
+    </agency>
+    <agency id="iaf">
+      <name>Inter-American Foundation (IAF)</name>
+      <url>www.iaf.gov</url>
+    </agency>
+    <agency id="doi">
+      <name>Department of the Interior (DOI)</name>
+      <url>www.doi.gov</url>
+    </agency>
+    <agency id="usitc">
+      <name>United States International Trade Commission (USITC)</name>
+      <url>www.usitc.gov</url>
+    </agency>
+    <agency id="justice">
+      <name>Department of Justice (DOJ)</name>
+      <url>www.justice.gov</url>
+    </agency>
+    <agency id="labor">
+      <name>Department of Labor (DOL)</name>
+      <url>www.labor.gov</url>
+    </agency>
+    <agency id="mspb">
+      <name>Merit Systems Protection Board (MSPB)</name>
+      <url>www.mspb.gov</url>
+    </agency>
+    <agency id="mcc">
+      <name>Millennium Challenge Corporation (MCC)</name>
+      <url>www.mcc.gov</url>
+    </agency>
+    <agency id="nasa">
+      <name>National Aeronautics and Space Administration (NASA)</name>
+      <url>www.nasa.gov</url>
+    </agency>
+    <agency id="archives">
+      <name>National Archives and Records Administration (NARA)</name>
+      <url>www.archives.gov</url>
+    </agency>
+    <agency id="ncpc">
+      <name>National Capital Planning Commission (NCPC)</name>
+      <url>www.ncpc.gov</url>
+    </agency>
+    <agency id="ncd">
+      <name>National Council on Disability (NCD)</name>
+      <url>www.ncd.gov</url>
+    </agency>
+    <agency id="ncua">
+      <name>National Credit Union Administration (NCUA)</name>
+      <url>www.ncua.gov</url>
+    </agency>
+    <agency id="nea">
+      <name>National Endowment for the Arts (NEA)</name>
+      <url>www.nea.gov</url>
+    </agency>
+    <agency id="neh">
+      <name>National Endowment for the Humanities (NEH)</name>
+      <url>www.neh.gov</url>
+    </agency>
+    <agency id="nlrb">
+      <name>National Labor Relations Board (NLRB)</name>
+      <url>www.nlrb.gov</url>
+    </agency>
+    <agency id="nmb">
+      <name>National Mediation Board (NMB)</name>
+      <url>www.nmb.gov</url>
+    </agency>
+    <agency id="nsf">
+      <name>National Science Foundation (NSF)</name>
+      <url>www.nsf.gov</url>
+    </agency>
+    <agency id="ntsb">
+      <name>National Transportation Safety Board (NTSB)</name>
+      <url>www.ntsb.gov</url>
+    </agency>
+    <agency id="nrc">
+      <name>Nuclear Regulatory Commission (NRC)</name>
+      <url>www.nrc.gov</url>
+    </agency>
+    <agency id="oshrc">
+      <name>Occupational Safety and Health Review Commission (OSHRC)</name>
+      <url>www.oshrc.gov</url>
+    </agency>
+    <agency id="compliance">
+      <name>Office of Compliance</name>
+      <url>www.compliance.gov</url>
+    </agency>
+    <agency id="usoge">
+      <name>Office of Government Ethics (USOGE)</name>
+      <url>www.usoge.gov</url>
+    </agency>
+    <agency id="opm">
+      <name>Office of Personnel Management (OPM)</name>
+      <url>www.opm.gov</url>
+    </agency>
+    <agency id="osc">
+      <name>Office of Special Counsel (OSC)</name>
+      <url>www.osc.gov</url>
+    </agency>
+    <agency id="dni">
+      <name>Office of the Director of National Intelligence (DNI)</name>
+      <url>www.dni.gov</url>
+    </agency>
+    <agency id="ncix">
+      <name>Office of the National Counterintelligence Executive (NCIX)</name>
+      <url>www.ncix.gov</url>
+    </agency>
+    <agency id="opic">
+      <name>Overseas Private Investment Corporation (OPIC)</name>
+      <url>www.opic.gov</url>
+    </agency>
+    <agency id="peacecorps">
+      <name>Peace Corps</name>
+      <url>www.peacecorps.gov</url>
+    </agency>
+    <agency id="pbgc">
+      <name>Pension Benefit Guaranty Corporation (PBGC)</name>
+      <url>www.pbgc.gov</url>
+    </agency>
+    <agency id="prc">
+      <name>Postal Regulatory Commission (PRC)</name>
+      <url>www.prc.gov</url>
+    </agency>
+    <agency id="usps">
+      <name>United States Postal Service (USPS)</name>
+      <url>www.usps.com</url>
+    </agency>
+    <agency id="rrb">
+      <name>Railroad Retirement Board (RRB)</name>
+      <url>www.rrb.gov</url>
+    </agency>
+    <agency id="sec">
+      <name>Securities and Exchange Commission (SEC)</name>
+      <url>www.sec.gov</url>
+    </agency>
+    <agency id="sss">
+      <name>Selective Service System (SSS)</name>
+      <url>www.sss.gov</url>
+    </agency>
+    <agency id="sba">
+      <name>Small Business Administration (SBA)</name>
+      <url>www.sba.gov</url>
+    </agency>
+    <agency id="ssa">
+      <name>Social Security Administration (SSA)</name>
+      <url>www.ssa.gov</url>
+    </agency>
+    <agency id="state">
+      <name>Department of State</name>
+      <url>www.state.gov</url>
+    </agency>
+    <agency id="tva">
+      <name>Tennessee Valley Authority (TVA)</name>
+      <url>www.tva.gov</url>
+    </agency>
+    <agency id="ustda">
+      <name>U.S. Trade and Development Agency (USTDA)</name>
+      <url>www.ustda.gov</url>
+    </agency>
+    <agency id="dot">
+      <name>Department of Transportation (DOT)</name>
+      <url>www.dot.gov</url>
+    </agency>
+    <agency id="treasury">
+      <name>Department of the Treasury</name>
+      <url>www.treasury.gov</url>
+    </agency>
+    <agency id="va">
+      <name>Department of Veterans Affairs (VA)</name>
+      <url>www.va.gov</url>
+    </agency>
+    <agency id="eop">
+      <name>Executive Office of the President (EOP)</name>
+      <url>www.whitehouse.gov</url>
+    </agency>
+    <agency id="supremecourt">
+      <name>Supreme Court (SCOTUS)</name>
+      <url>www.supremecourt.gov</url>
+    </agency>
+    <agency id="house">
+      <name>House of Representatives</name>
+      <url>www.house.gov</url>
+    </agency>
+    <agency id="senate">
+      <name>U.S. Senate</name>
+      <url>www.senate.gov</url>
+    </agency>
+    <agency id="loc">
+      <name>Library of Congress (LOC)</name>
+      <url>www.libraryofcongress.gov</url>
+    </agency>
+    <agency id="courtofappeals">
+      <name>U.S. Court of Appeals (CAFC)</name>
+      <url>www.cafc.uscourts.gov</url>
+    </agency>
+    <agency id="districtcourts">
+      <name>U.S. District Courts</name>
+      <url>www.uscourts.gov/FederalCourts/UnderstandingtheFederalCourts/DistrictCourts.aspx</url>
+    </agency>
+    <agency id="backruptcycourts">
+      <name>U.S. Bankruptcy Courts</name>
+      <url>www.uscourts.gov/FederalCourts/UnderstandingtheFederalCourts/BankruptcyCourts.aspx</url>
+    </agency>
+    <agency id="courtofappealsforarmedforces">
+      <name>U.S. Court of Appeals for the Armed Forces</name>
+      <url>www.armfor.uscourts.gov</url>
+    </agency>
+    <agency id="courtoffederalclaims">
+      <name>U.S. Court of Federal Claims (USCFC)</name>
+      <url>www.uscfc.uscourts.gov</url>
+    </agency>
+    <agency id="courtofinternationaltrade">
+      <name>U.S. Court of International Trade</name>
+      <url>www.cit.uscourts.gov</url>
+    </agency>
+    <agency id="ustaxcourt">
+      <name>U.S. Tax Court</name>
+      <url>www.ustaxcourt.gov</url>
+    </agency>
+    <agency id="courtofappealsforveterans">
+      <name>U.S. Court of Appeals for Veterans Claims (CAVC)</name>
+      <url>www.uscourts.cavc.gov</url>
+    </agency>
+    <agency id="jpml">
+      <name>Judicial Panel on Multidistrict Litigation (JPML)</name>
+      <url>www.jpml.uscourts.gov</url>
+    </agency>
+    <agency id="uscourts">
+      <name>Administrative Office of the U.S. Courts</name>
+      <url>www.uscourts.gov</url>
+    </agency>
+    <agency id="fjc">
+      <name>Federal Judicial Center (FJC)</name>
+      <url>www.fjc.gov</url>
+    </agency>
+    <agency id="ussc">
+      <name>U.S. Sentencing Commission (USSC)</name>
+      <url>www.ussc.gov</url>
+    </agency>
+    <agency id="capitol">
+      <name>Architect of the Capitol (AOC)</name>
+      <url>www.aoc.gov</url>
+    </agency>
+    <agency id="botanicgarden">
+      <name>United States Botanic Garden</name>
+      <url>www.usbg.gov</url>
+    </agency>
+    <agency id="gao">
+      <name>Government Accountability Office (GAO)</name>
+      <url>www.gao.gov</url>
+    </agency>
+    <agency id="gpo">
+      <name>Government Printing Office (GPO)</name>
+      <url>www.gpo.gov</url>
+    </agency>
+    <agency id="cbo">
+      <name>Congressional Budget Office (CBO)</name>
+      <url>www.cbo.gov</url>
+    </agency>
+    <agency id="ise">
+      <name>Information Sharing Environment (ISE)</name>
+      <url>ise.gov</url>
+    </agency>
+    <agency id="acp">
+      <name>Panama Canal Authority (ACP)</name>
+      <url>www.pancanal.com</url>
+    </agency>
+    <agency id="irs">
+      <name>Internal Revenue Service (IRS)</name>
+      <url>irs.gov</url>
+    </agency>
+    <agency id="eia">
+      <name>U.S. Energy Information Administration (EIA)</name>
+      <url>www.eia.gov</url>
+    </agency>
+  </agencies>
+</agencies>
