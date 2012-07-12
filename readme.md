@@ -65,7 +65,7 @@ In XML this is represented as:
 </agencies>
 ```
 
-Note: Both files are available as a service at `http://raw.github.com/gsa/agencies.{format}` ( [JSON](http://raw.github.com/gsa/agencies.json) | [XML](http://raw.github.com/gsa/agencies.xml) )
+Note: Both files are available as a service at `http://raw.github.com/gsa/agencies.{format}` ( [JSON](https://raw.github.com/gsa/digital-strategy/master/agencies.json) | [XML](httsp://raw.github.com/gsa/digital-strategy/master/agencies.xml) )
 
 Items
 -----
