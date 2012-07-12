@@ -27,6 +27,10 @@ Reporting
 ---------
 To comply with the presidential memorandum's reporting requirements, each reporting agency should generate `digitalstrategy.xml` and `digitalstrategy.json` files which meet the schema described herein and should place such files at the top level of their primary domain e.g., `agency.gov/digitalstrategy.json` and `agency.gov/digitalstrategy.xml`. A human-readable version of the same information (not restricted to any specific format or schema) should also be placed at `agency.gov/digitalstrategy` or `agency.gov/digitalstrategy.html` for agenies with a content management system or similar publishing platform.
 
+To create a report file, agencies could use the tool(s) provided by GSA, or could generate the files using their own means, so long as such generated files conform to the established schema. Agencies creating tools or applications to this end are encouraged to share their tools publicly and with other agencies.
+
+Report files as substantially similar to the base schema file contained within this repository, however, when reporting, agencies should propegate their answers into the `value` field of each action item. Multiple values are to be represented as an array of values in JSON, and as a child `value` node in XML.
+
 Data Types and Standards
 ------------------------
 
