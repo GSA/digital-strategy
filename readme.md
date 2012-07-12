@@ -1,7 +1,7 @@
 Digital Government Strategy
 ===========================
 
-This repository serves as the canonical machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress. Citizen developers are encouraged to use this information to build applications and tools.
+This repository serves as the canonical machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress. Citizen developers are encouraged to use this information to build applications and tools. By placing the `digitalstrategy.{format}` reporting file at the root level of each federal agency's primary domain, developers could use the agency list included to locate and crawl each agency's progress.
 
 API
 ---
@@ -22,6 +22,10 @@ Files
 
 * `agencies.json` and `agencies.xml` - machine-readable listing of common federal agencies, their primary domain, and abbreviation (e.g., FBI)
 * `items.json` and `items.xml` - machine-readable representation of the action items from the digital strategy
+
+Reporting
+---------
+To comply with the presidential memorandum's reporting requirements, each reporting agency should generate `digitalstrategy.xml` and digitalstrategy.json` files which meet the schema described herein and should place such files at the top level of their primary domain e.g., `agency.gov/digitalstrategy.json` and `agency.gov/digitalstrategy.xml`. A human-readable version of the same information (not restricted to any specific format or schema) should also be placed at `agency.gov/digitalstrategy` or `agency.gov/digitalstrategy.html` for agenies with a content management system or similar publishing platform.
 
 Data Types and Standards
 ------------------------
