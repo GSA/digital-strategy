@@ -10,7 +10,7 @@ The files contained in this repository are available as a psuedo-service using t
 
 `https://raw.github.com/GSA/digital-strategy/{api_version}/{file}.{format}`
 
-Example:
+Examples:
 
 [`https://raw.github.com/GSA/digital-strategy/1/agencies.xml`](https://raw.github.com/GSA/digital-strategy/1/agencies.xml)
 
