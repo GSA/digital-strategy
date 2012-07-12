@@ -9,6 +9,11 @@ Files
 * `agencies.json` and `agencies.xml` - machine-readable listing of common federal agencies, their primary domain, and abbreviation (e.g., FBI)
 * `items.json` and `items.xml` - machine-readable representation of the action items from the digital strategy
 
+Data Types and Standards
+------------------------
+
+In the interest of compatability and interoperability, unless otherwise noted, no field or value should contain any tags or markup.
+
 Agency List
 -----------
 
@@ -56,7 +61,7 @@ In XML this is represented as:
       <url>www.achp.gov</url>
     </agency>
     ...
-  </agencies
+  </agencies>
 </agencies>
 ```
 
@@ -83,7 +88,7 @@ The field object is made up the following:
 * **name** - HTML friendly name for the field
 * **label** - Human readable label for the field
 * **option** - where applicable, an array of label, value pairs describing the potential options (e.g. for a drop down)
-* **value** - when used as an agency progress report, the agency-reported answer to the field, or if multiple answers, an array of agency-reported answers.
+* **value** - when used as an agency progress report, the agency-reported answer to the field, or if multiple answers, an array of agency-reported answers. Multiple values will be represented as an array in JSON, as nested `value` nodes in XML.
 
 In JSON this would be represented as:
 
