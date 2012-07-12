@@ -39,7 +39,7 @@ In the interest of compatability and interoperability, unless otherwise noted, n
 Agency List
 -----------
 
-The agency list contains a timestamp of when the file was last updated as well as a listing of common federal agencies. Each agency has three fields:
+The agency list contains a timestamp of when the file was last updated and the schema version as well as a listing of common federal agencies. Each agency has three fields:
 
 * **name** - The Human-readable name of the agency (e.g., Federal Communications Commission)
 * **id** - The agencies abbreviation or id (e.g., fcc)
@@ -90,7 +90,7 @@ In XML this is represented as:
 Items
 -----
 
-The items act as a machine-readable representation of the agency-specific action items outlined in the digital strategy, as well as a base schema for reporting on its progress. At the root level, the schema contains a timestamp indicating when it was last updated, as well as a list of all action items.
+The items act as a machine-readable representation of the agency-specific action items outlined in the digital strategy, as well as a base schema for reporting on its progress. At the root level, the schema contains a timestamp indicating when it was last updated and the schema version, as well as a list of all action items.
 
 Each action item can have the following properties:
 
