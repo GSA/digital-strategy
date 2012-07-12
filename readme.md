@@ -1,7 +1,7 @@
 Digital Government Strategy
 ===========================
 
-This repository serves as the canonical machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress. Citizen developers are encouraged to use this information to build applications and tools. By placing the `digitalstrategy.{format}` reporting file at the root level of each federal agency's primary domain, developers could use the agency list included to locate and crawl each agency's progress.
+This repository serves as the canonical machine-readable schema for describing action items within the president's digital strategy, and for reporting on its progress. Citizen developers are encouraged to use this information to build applications and tools. As agencies place their `digitalstrategy.{format}` reporting file at the root level of their agency's primary domain, developers could use the agency list included to retrieve an individual agency's progress, or to aggregate agencies' progress as a whole.
 
 API
 ---
