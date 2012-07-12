@@ -193,3 +193,8 @@ In XML this would be represented as:
   </items>
 </items>
 ```
+
+Additional Resources
+--------------------
+
+Please feel free to use the project wiki to share any additional resources related to the project.
