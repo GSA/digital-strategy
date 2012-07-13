@@ -198,4 +198,4 @@ In XML this would be represented as:
 Additional Resources
 --------------------
 
-Please feel free to use the project wiki to share any additional resources related to the project.
+Please feel free to use the project wiki to share any additional resources related to the project including [example usage (in PHP)](https://github.com/GSA/digital-strategy/wiki/Example-Usage-in-PHP).
