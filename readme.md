@@ -31,6 +31,7 @@ To create a report file, agencies could use the tool(s) provided by GSA, or coul
 
 Report files as substantially similar to the base schema file contained within this repository, however, when reporting, agencies should propegate their answers into the `value` field of each action item. Multiple values are to be represented as an array of values in JSON, and as a child `value` node in XML.
 
+Agencies are encourages to make their reports as developer-friendly as possible, such as supporting the [JSONP callback parameter](http://en.wikipedia.org/wiki/JSONP), or [allowing cross-domain JSON requests on your server](http://enable-cors.org/)
 Data Types and Standards
 ------------------------
 
