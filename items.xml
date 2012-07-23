@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <items>
-  <generated>2012-07-12 14:41:46</generated>
+  <generated>2012-07-23 17:05:03</generated>
   <api_version>1</api_version>
   <items>
     <item id="2.1">
       <parent/>
       <text>Engage with customers to identify at least two existing major customer-facing services that contain high-value data or content as first-move candidates to make compliant with new open data, content, and web API policy.</text>
       <due>90 Days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -36,7 +36,7 @@
       <parent>2.1</parent>
       <text>Paragraph on customer engagement approach</text>
       <due>90 days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>textarea</type>
@@ -52,7 +52,7 @@
       <parent>2.1</parent>
       <text>Prioritized list of systems (datasets)</text>
       <due>90 days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -95,6 +95,13 @@
           <options/>
           <value/>
         </field>
+        <field>
+          <type>text</type>
+          <name>2-1-2-uii</name>
+          <label>Unique Investment Identifier</label>
+          <options/>
+          <value/>
+        </field>
       </fields>
       <multiple>1</multiple>
     </item>
@@ -102,7 +109,7 @@
       <parent/>
       <text>Engage with customers to identify at least two existing priority customer-facing services to optimize for mobile use.</text>
       <due>90 Days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -131,7 +138,7 @@
       <parent>7.1</parent>
       <text>Paragraph on customer engagement approach</text>
       <due>90 days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>textarea</type>
@@ -147,7 +154,7 @@
       <parent>7.1</parent>
       <text>Prioritized list of systems (datasets)</text>
       <due>90 days</due>
-      <due_date>2012/08/20</due_date>
+      <due_date>2012/08/21</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -190,6 +197,13 @@
           <options/>
           <value/>
         </field>
+        <field>
+          <type>text</type>
+          <name>7-1-2-uii</name>
+          <label>Unique Investment Identifier</label>
+          <options/>
+          <value/>
+        </field>
       </fields>
       <multiple>1</multiple>
     </item>
@@ -197,7 +211,7 @@
       <parent/>
       <text>Establish an agency-wide governance structure for developing and delivering digital services</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -233,7 +247,7 @@
       <parent>4.2</parent>
       <text>Goals</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -263,7 +277,7 @@
       <parent>4.2</parent>
       <text>Set specified agency-wide policies and standards</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -299,7 +313,7 @@
       <parent/>
       <text>Develop an enterprise-wide inventory of mobile devices and wireless service contracts</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -328,7 +342,7 @@
       <parent>5.2</parent>
       <text>Develop mobile device inventory</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -344,7 +358,7 @@
       <parent>5.2</parent>
       <text>Develop wireless service contract inventory</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -400,7 +414,7 @@
       <parent/>
       <text>Implement performance and customer satisfaction measuring tools on all .gov websites</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -429,7 +443,7 @@
       <parent>8.2</parent>
       <text>Implement performance measurement tool</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>textarea</type>
@@ -445,7 +459,7 @@
       <parent>8.2</parent>
       <text>Implement customer satisfaction tool</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>textarea</type>
@@ -461,7 +475,7 @@
       <parent/>
       <text>Ensure all new IT systems follow the open data, content, and web API policy and operationalize agency.gov/developer pages</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -490,7 +504,7 @@
       <parent>1.2</parent>
       <text>Document policy for architecting new IT systems for openness by default</text>
       <due>6 months</due>
-      <due_date>2012/11/22</due_date>
+      <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -513,7 +527,7 @@
       <parent>1.2</parent>
       <text>Operationalize /developer page</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -529,7 +543,7 @@
       <parent/>
       <text>Make high-value data and content in at least two existing, major customer-facing systems available through web APIs, apply metadata tagging and publish a plan to transition additional high-value systems</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -558,7 +572,7 @@
       <parent>2.1</parent>
       <text>Make 2+ systems (datasets) available via web APIs with metadata tags</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -574,7 +588,7 @@
       <parent>2.1</parent>
       <text>Publish plan on future activity</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
@@ -638,7 +652,7 @@
       <parent/>
       <text>Evaluate the government-wide contract vehicles in the alternatives analysis for all new mobile-related procurements</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -674,7 +688,7 @@
       <parent/>
       <text>Ensure all new digital services follow digital services and customer experience improvement guidelines</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -710,7 +724,7 @@
       <parent/>
       <text>Optimize at least two existing priority customer-facing services for mobile use and publish a plan for improving additional existing services</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -746,7 +760,7 @@
       <parent>7.2.</parent>
       <text>Report on services</text>
       <due>12 months</due>
-      <due_date>2013/05/22</due_date>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
