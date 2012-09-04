@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+consum<?xml version="1.0"?>
 <agencies>
   <generator_version>1.1</generator_version>
   <generated>2012-08-13 17:36:18</generated>
@@ -151,6 +151,10 @@
     <agency id="CBO">
       <name>Congressional Budget Office</name>
       <url>http://www.cbo.gov</url>
+    </agency>
+    <agency id="CFPB">
+      <name>Consumer Financial Protection Bureau</name>
+      <url>http://www.consumerfinance.gov</url>
     </agency>
     <agency id="CPSC">
       <name>Consumer Product Safety Commission</name>
