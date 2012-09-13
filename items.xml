@@ -504,8 +504,8 @@
     <item id="1.2.1">
       <parent>1.2</parent>
       <text>Document policy for architecting new IT systems for openness by default</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
+      <due>12 months</due>
+      <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
