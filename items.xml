@@ -235,6 +235,13 @@
           <value/>
         </field>
         <field>
+          <type>textarea</type>
+          <name>4-2-policy</name>
+          <label>Paragraph on policy</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
           <type>text</type>
           <name>4-2-link</name>
           <label>Link to governance document</label>
@@ -243,72 +250,6 @@
         </field>
       </fields>
       <multiple/>
-    </item>
-    <item id="4.2.1">
-      <parent>4.2</parent>
-      <text>Goals</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
-      <fields>
-        <field>
-          <type>text</type>
-          <name>4-2-1-goal</name>
-          <label>Goal</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>textarea</type>
-          <name>4-2-1-measure</name>
-          <label>Measure</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>text</type>
-          <name>4-2-1-completion-date</name>
-          <label>Target completion date</label>
-          <options/>
-          <value/>
-        </field>
-      </fields>
-      <multiple/>
-    </item>
-    <item id="4.2.3">
-      <parent>4.2</parent>
-      <text>Set specified agency-wide policies and standards</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
-      <fields>
-        <field>
-          <type>text</type>
-          <name>4-2-3-standard</name>
-          <label>Policy or standard</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>select</type>
-          <name>4-2-3-status</name>
-          <label>Overall Status</label>
-          <options>
-            <option>
-              <label>Not Started</label>
-              <value>not-started</value>
-            </option>
-            <option>
-              <label>In Progress</label>
-              <value>in-progress</value>
-            </option>
-            <option>
-              <label>Completed</label>
-              <value>completed</value>
-            </option>
-          </options>
-          <value/>
-        </field>
-      </fields>
-      <multiple>1</multiple>
     </item>
     <item id="5.2">
       <parent/>
@@ -341,57 +282,21 @@
     </item>
     <item id="5.2.1">
       <parent>5.2</parent>
-      <text>Develop mobile device inventory</text>
+      <text>Develop wireless and mobile inventory</text>
       <due>6 months</due>
       <due_date>2012/11/23</due_date>
       <fields>
         <field>
           <type>text</type>
-          <name>5-2-1-link</name>
-          <label>Link to inventory</label>
-          <options/>
-          <value/>
-        </field>
-      </fields>
-      <multiple/>
-    </item>
-    <item id="5.2.2">
-      <parent>5.2</parent>
-      <text>Develop wireless service contract inventory</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
-      <fields>
-        <field>
-          <type>text</type>
-          <name>5-2-2-component</name>
+          <name>5-2-1-component</name>
           <label>Bureau/Component</label>
           <options/>
           <value/>
         </field>
         <field>
           <type>select</type>
-          <name>5-2-2-device-inventory-status</name>
-          <label>Mobile Device Inventory Status</label>
-          <options>
-            <option>
-              <label>Not Started</label>
-              <value>not-started</value>
-            </option>
-            <option>
-              <label>In Progress</label>
-              <value>in-progress</value>
-            </option>
-            <option>
-              <label>Completed</label>
-              <value>completed</value>
-            </option>
-          </options>
-          <value/>
-        </field>
-        <field>
-          <type>select</type>
-          <name>5-2-2-contract-inventory-status</name>
-          <label>Wireless Service Contract Inventory Status</label>
+          <name>5-2-1-device-inventory-status</name>
+          <label>Inventory Status</label>
           <options>
             <option>
               <label>Not Started</label>
