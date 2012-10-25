@@ -301,7 +301,7 @@
         }, {
             "type": "textarea",
             "name": "8-2-1-implementation",
-            "label": "If not, describe implementation",
+            "label": "If Not, Describe Implementation",
             "options": [],
             "value": null
         }, {
