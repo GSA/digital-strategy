@@ -242,9 +242,9 @@
           <value/>
         </field>
         <field>
-          <type>text</type>
+          <type>textarea</type>
           <name>4-2-link</name>
-          <label>Link to governance document</label>
+          <label>URL to policy document</label>
           <options/>
           <value/>
         </field>
@@ -352,9 +352,37 @@
       <due_date>2012/11/23</due_date>
       <fields>
         <field>
+          <type>select</type>
+          <name>8-2-1-tool</name>
+          <label>Implemented Digital Analytics Program</label>
+            <option>
+              <label>Yes</label>
+              <value>yes</value>
+            </option>
+            <option>
+              <label>No</label>
+              <value>no</value>
+            </option>
+          <value/>
+        </field>
+        <field>
           <type>textarea</type>
           <name>8-2-1-implementation</name>
           <label>Describe Implementation</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>8-2-1-percent</name>
+          <label>Percent of websites covered</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>textarea</type>
+          <name>8-2-1-url</name>
+          <label>URL of performance data</label>
           <options/>
           <value/>
         </field>
@@ -371,6 +399,13 @@
           <type>textarea</type>
           <name>8-2-2-implementation</name>
           <label>Describe Implementation</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>textarea</type>
+          <name>8-2-2-url</name>
+          <label>URL of performance data</label>
           <options/>
           <value/>
         </field>
