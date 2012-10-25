@@ -198,9 +198,9 @@
             "options": [],
             "value": null
         }, {
-            "type": "text",
+            "type": "textarea",
             "name": "4-2-link",
-            "label": "Link to governance document",
+            "label": "URL to policy documents",
             "options": [],
             "value": null
         }],
@@ -311,7 +311,7 @@
             "options": [],
             "value": null
         }, {
-            "type": "textarea",
+            "type": "text",
             "name": "8-2-1-url",
             "label": "URL of performance data",
             "options": [],
