@@ -194,13 +194,13 @@
         }, {
             "type": "textarea",
             "name": "4-2-policy",
-            "label": "Paragraph on policy",
+            "label": "Paragraph on Governance",
             "options": [],
             "value": null
         }, {
             "type": "textarea",
             "name": "4-2-link",
-            "label": "URL to policy documents",
+            "label": "URL to Governance Document",
             "options": [],
             "value": null
         }],
