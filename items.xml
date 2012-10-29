@@ -237,14 +237,14 @@
         <field>
           <type>textarea</type>
           <name>4-2-policy</name>
-          <label>Paragraph on policy</label>
+          <label>Paragraph on Governance</label>
           <options/>
           <value/>
         </field>
         <field>
           <type>textarea</type>
           <name>4-2-link</name>
-          <label>URL to policy document</label>
+          <label>URL to Governance Document</label>
           <options/>
           <value/>
         </field>
