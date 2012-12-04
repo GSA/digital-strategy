@@ -319,8 +319,8 @@
     <item id="8.2">
       <parent/>
       <text>Implement performance and customer satisfaction measuring tools on all .gov websites</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
+      <due>8 months</due>
+      <due_date>2013/1/22</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -348,8 +348,8 @@
     <item id="8.2.1">
       <parent>8.2</parent>
       <text>Implement performance measurement tool</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
+      <due>8 months</due>
+      <due_date>2013/1/22</due_date>
       <fields>
         <field>
           <type>select</type>
@@ -392,8 +392,8 @@
     <item id="8.2.2">
       <parent>8.2</parent>
       <text>Implement customer satisfaction tool</text>
-      <due>6 months</due>
-      <due_date>2012/11/23</due_date>
+      <due>8 months</due>
+      <due_date>2013/1/22</due_date>
       <fields>
         <field>
           <type>textarea</type>
