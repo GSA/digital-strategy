@@ -261,8 +261,8 @@
         "id": "8.2",
         "parent": null,
         "text": "Implement performance and customer satisfaction measuring tools on all .gov websites",
-        "due": "6 months",
-        "due_date": "2012\/11\/23",
+        "due": "8 months",
+        "due_date": "2013\/1\/22",
         "fields": [{
             "type": "select",
             "name": "8-2-status",
@@ -284,8 +284,8 @@
         "id": "8.2.1",
         "parent": "8.2",
         "text": "Implement performance measurement tool",
-        "due": "6 months",
-        "due_date": "2012\/11\/23",
+        "due": "8 months",
+        "due_date": "2013\/1\/22",
         "fields": [{
             "type": "select",
             "name": "8-2-1-tool",
@@ -322,8 +322,8 @@
         "id": "8.2.2",
         "parent": "8.2",
         "text": "Implement customer satisfaction tool",
-        "due": "6 months",
-        "due_date": "2012\/11\/23",
+        "due": "8 months",
+        "due_date": "2013\/1\/22",
         "fields": [{
             "type": "textarea",
             "name": "8-2-2-implementation",
