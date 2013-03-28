@@ -448,13 +448,6 @@
       <due_date>2013/05/23</due_date>
       <fields>
         <field>
-          <type>text</type>
-          <name>1-2-1-url</name>
-          <label>URL of policy</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
           <type>textarea</type>
           <name>1-2-1-description</name>
           <label>Describe policy</label>
@@ -464,16 +457,44 @@
       </fields>
       <multiple/>
     </item>
-    <item id="1.2.2">
+    <item id="1.2.3">
       <parent>1.2</parent>
-      <text>Operationalize /developer page</text>
-      <due>12 months</due>
-      <due_date>2013/05/23</due_date>
+      <text>Operationalize Enterprise Data Inventory</text>
+      <due>17 months</due>
+      <due_date>2013/10/23</due_date>
       <fields>
         <field>
           <type>text</type>
-          <name>1-2-2-url</name>
-          <label>URL of page</label>
+          <name>1-2-3-datasets-in-inventory</name>
+          <label>Number of datasets in the Enterprise Data Inventory</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>1-2-3-systems-in-inventory</name>
+          <label>Number of systems whose datasets are in the Enterprise Data Inventory</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>1-2-3-datasets-potential-public</name>
+          <label>Number of datasets that can be made publicly available</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>1-2-3-datasets-listed</name>
+          <label>Number of datasets listed on the /data page</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>1-2-3-datasets-in-inventory</name>
+          <label>Number of released datasets listed on the /data page</label>
           <options/>
           <value/>
         </field>
@@ -511,14 +532,14 @@
     </item>
     <item id="2.2.1">
       <parent>2.1</parent>
-      <text>Make 2+ systems (datasets) available via web APIs with metadata tags</text>
+      <text>Publish plan on future activity</text>
       <due>12 months</due>
       <due_date>2013/05/23</due_date>
       <fields>
         <field>
           <type>text</type>
-          <name>2-2-1-url</name>
-          <label>URL of page</label>
+          <name>2-2-1-describe</name>
+          <label>Describe policy</label>
           <options/>
           <value/>
         </field>
@@ -527,7 +548,7 @@
     </item>
     <item id="2.2.2">
       <parent>2.1</parent>
-      <text>Publish plan on future activity</text>
+      <text>Make 2+ systems (datasets) available via web APIs with metadata tags</text>
       <due>12 months</due>
       <due_date>2013/05/23</due_date>
       <fields>
@@ -574,15 +595,15 @@
         </field>
         <field>
           <type>text</type>
-          <name>2-2-2-url</name>
-          <label>Endpoint URL</label>
+          <name>2-2-2-uii</name>
+          <label>Unique Investment Identifier</label>
           <options/>
           <value/>
         </field>
         <field>
-          <type>textarea</type>
-          <name>2-2-2-compliance</name>
-          <label>Summary of policy compliance</label>
+          <type>text</type>
+          <name>2-2-2-url</name>
+          <label>API Link</label>
           <options/>
           <value/>
         </field>
@@ -618,7 +639,7 @@
         <field>
           <type>textarea</type>
           <name>5-3-policy</name>
-          <label>Paragraph on policy</label>
+          <label>Describe Implementation</label>
           <options/>
           <value/>
         </field>
@@ -654,7 +675,7 @@
         <field>
           <type>textarea</type>
           <name>6-3-policy</name>
-          <label>Paragraph on policy</label>
+          <label>Describe Implementation</label>
           <options/>
           <value/>
         </field>
@@ -689,8 +710,8 @@
         </field>
         <field>
           <type>textarea</type>
-          <name>7-2-url</name>
-          <label>URL of plan</label>
+          <name>7-2-policy</name>
+          <label>Describe Implementation</label>
           <options/>
           <value/>
         </field>
@@ -745,16 +766,16 @@
           <value/>
         </field>
         <field>
-          <type>text</type>
-          <name>7-2-1-url</name>
-          <label>URL of service</label>
+          <type>textarea</type>
+          <name>7-2-1-uii</name>
+          <label>Unique Investment Identifier</label>
           <options/>
           <value/>
         </field>
         <field>
-          <type>textarea</type>
-          <name>7-2-1-optimizations</name>
-          <label>Summary of optimizations</label>
+          <type>text</type>
+          <name>7-2-1-url</name>
+          <label>URL of service</label>
           <options/>
           <value/>
         </field>
