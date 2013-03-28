@@ -368,12 +368,6 @@
         "due": "6 months",
         "due_date": "2012\/11\/23",
         "fields": [{
-            "type": "text",
-            "name": "1-2-1-url",
-            "label": "URL of policy",
-            "options": [],
-            "value": null
-        }, {
             "type": "textarea",
             "name": "1-2-1-description",
             "label": "Describe policy",
@@ -382,15 +376,39 @@
         }],
         "multiple": false
     }, {
-        "id": "1.2.2",
+        "id": "1.2.3",
         "parent": "1.2",
-        "text": "Operationalize \/developer page",
-        "due": "12 months",
-        "due_date": "2013\/05\/23",
+        "text": "Operationalize Enterprise Data Inventory",
+        "due": "17 months",
+        "due_date": "2013\/10\/23",
         "fields": [{
             "type": "text",
-            "name": "1-2-2-url",
-            "label": "URL of page",
+            "name": "1-2-3-datasets-in-inventory",
+            "label": "Number of datasets in the Enterprise Data Inventory",
+            "options": [],
+            "value": null
+        }, {
+            "type": "text",
+            "name": "1-2-3-systems-in-inventory",
+            "label": "Number of systems whose datasets are in the Enterpirse Data Inventory",
+            "options": [],
+            "value": null
+        }, {
+            "type": "text",
+            "name": "1-2-3-datasets-potential-public",
+            "label": "Number of datasets that can be made publicly available",
+            "options": [],
+            "value": null
+        }, {
+            "type": "text",
+            "name": "1-2-3-datsets-listed",
+            "label": "Number of datasets listed on the \/data page",
+            "options": [],
+            "value": null
+        }, {
+            "type": "text",
+            "name": "1-2-3-released-datasets-listed",
+            "label": "Number of released datasets listed on the \/data page",
             "options": [],
             "value": null
         }],
@@ -421,13 +439,13 @@
     }, {
         "id": "2.2.1",
         "parent": "2.1",
-        "text": "Make 2+ systems (datasets) available via web APIs with metadata tags",
+        "text": "Publish plan on future activity",
         "due": "12 months",
         "due_date": "2013\/05\/23",
         "fields": [{
-            "type": "text",
-            "name": "2-2-1-url",
-            "label": "URL of page",
+            "type": "textarea",
+            "name": "2-2-1-describe",
+            "label": "Describe policy",
             "options": [],
             "value": null
         }],
@@ -435,7 +453,7 @@
     }, {
         "id": "2.2.2",
         "parent": "2.1",
-        "text": "Publish plan on future activity",
+        "text": "Make 2+ systems (datasets) available via web APIs with metadata tags",
         "due": "12 months",
         "due_date": "2013\/05\/23",
         "fields": [{
@@ -473,14 +491,14 @@
             "value": null
         }, {
             "type": "text",
-            "name": "2-2-2-url",
-            "label": "Endpoint URL",
+            "name": "2-2-2-uii",
+            "label": "Unique Investment Identifier",
             "options": [],
             "value": null
         }, {
-            "type": "textarea",
-            "name": "2-2-2-compliance",
-            "label": "Summary of policy compliance",
+            "type": "text",
+            "name": "2-2-2-url",
+            "label": "API Link",
             "options": [],
             "value": null
         }],
@@ -509,7 +527,7 @@
         }, {
             "type": "textarea",
             "name": "5-3-policy",
-            "label": "Paragraph on policy",
+            "label": "Describe Implementation",
             "options": [],
             "value": null
         }],
@@ -538,7 +556,7 @@
         }, {
             "type": "textarea",
             "name": "6-3-policy",
-            "label": "Paragraph on policy",
+            "label": "Describe Implementation",
             "options": [],
             "value": null
         }],
@@ -566,8 +584,8 @@
             "value": null
         }, {
             "type": "textarea",
-            "name": "7-2-url",
-            "label": "URL of plan",
+            "name": "7-2-policy",
+            "label": "Describe Implementation",
             "options": [],
             "value": null
         }],
@@ -613,14 +631,14 @@
             "value": null
         }, {
             "type": "text",
-            "name": "7-2-1-url",
-            "label": "URL of service",
+            "name": "7-2-1-uii",
+            "label": "Unique Investment Identifier",
             "options": [],
             "value": null
         }, {
-            "type": "textarea",
-            "name": "7-2-1-optimizations",
-            "label": "Summary of optimizations",
+            "type": "text",
+            "name": "7-2-1-url",
+            "label": "URL of service",
             "options": [],
             "value": null
         }],
