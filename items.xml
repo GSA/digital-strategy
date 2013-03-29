@@ -450,7 +450,7 @@
         <field>
           <type>textarea</type>
           <name>1-2-1-description</name>
-          <label>Describe policy</label>
+          <label>Describe implementation</label>
           <options/>
           <value/>
         </field>
@@ -493,7 +493,7 @@
         </field>
         <field>
           <type>text</type>
-          <name>1-2-3-datasets-in-inventory</name>
+          <name>1-2-3-released-datasets-listed</name>
           <label>Number of released datasets listed on the /data page</label>
           <options/>
           <value/>
@@ -539,7 +539,7 @@
         <field>
           <type>text</type>
           <name>2-2-1-describe</name>
-          <label>Describe policy</label>
+          <label>Describe implementation</label>
           <options/>
           <value/>
         </field>
