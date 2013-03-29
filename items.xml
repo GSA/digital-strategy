@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <items>
-  <generator_version>1.2</generator_version>
+  <generator_version>1.4</generator_version>
   <generated>2012-10-19 17:36:18</generated>
   <api_version>1</api_version>
   <items>
@@ -242,7 +242,7 @@
           <value/>
         </field>
         <field>
-          <type>textarea</type>
+          <type>text</type>
           <name>4-2-link</name>
           <label>URL to Governance Document</label>
           <options/>
@@ -544,7 +544,7 @@
           <value/>
         </field>
       </fields>
-      <multiple>1</multiple>
+      <multiple></multiple>
     </item>
     <item id="2.2.2">
       <parent>2.1</parent>
