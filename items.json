@@ -370,7 +370,7 @@
         "fields": [{
             "type": "textarea",
             "name": "1-2-1-description",
-            "label": "Describe policy",
+            "label": "Describe implementation",
             "options": [],
             "value": null
         }],
@@ -401,7 +401,7 @@
             "value": null
         }, {
             "type": "text",
-            "name": "1-2-3-datsets-listed",
+            "name": "1-2-3-datasets-listed",
             "label": "Number of datasets listed on the \/data page",
             "options": [],
             "value": null
@@ -445,7 +445,7 @@
         "fields": [{
             "type": "textarea",
             "name": "2-2-1-describe",
-            "label": "Describe policy",
+            "label": "Describe implementation",
             "options": [],
             "value": null
         }],
