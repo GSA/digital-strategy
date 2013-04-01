@@ -733,7 +733,7 @@
         </field>
         <field>
           <type>textarea</type>
-          <name>7-2-1-name</name>
+          <name>7-2-1-description</name>
           <label>Service Description</label>
           <options/>
           <value/>
