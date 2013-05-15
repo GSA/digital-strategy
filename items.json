@@ -390,7 +390,7 @@
         }, {
             "type": "text",
             "name": "1-2-3-systems-in-inventory",
-            "label": "Number of systems whose datasets are in the Enterpirse Data Inventory",
+            "label": "Number of systems whose datasets are in the Enterprise Data Inventory",
             "options": [],
             "value": null
         }, {
