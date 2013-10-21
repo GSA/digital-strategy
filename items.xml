@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <items>
-  <generator_version>1.4</generator_version>
-  <generated>2012-10-19 17:36:18</generated>
+  <generator_version>1.5</generator_version>
+  <generated>2013-10-20 17:36:18</generated>
   <api_version>1</api_version>
   <items>
     <item id="2.1">
@@ -457,50 +457,105 @@
       </fields>
       <multiple/>
     </item>
-    <item id="1.2.3">
+    <item id="1.2.4">
       <parent>1.2</parent>
-      <text>Operationalize Enterprise Data Inventory</text>
+      <text>Develop Data Inventory Schedule - Summary</text>
       <due>17 months</due>
       <due_date>2013/10/23</due_date>
       <fields>
         <field>
-          <type>text</type>
-          <name>1-2-3-datasets-in-inventory</name>
-          <label>Number of datasets in the Enterprise Data Inventory</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>text</type>
-          <name>1-2-3-systems-in-inventory</name>
-          <label>Number of systems whose datasets are in the Enterprise Data Inventory</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>text</type>
-          <name>1-2-3-datasets-potential-public</name>
-          <label>Number of datasets that can be made publicly available</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>text</type>
-          <name>1-2-3-datasets-listed</name>
-          <label>Number of datasets listed on the /data page</label>
-          <options/>
-          <value/>
-        </field>
-        <field>
-          <type>text</type>
-          <name>1-2-3-released-datasets-listed</name>
-          <label>Number of released datasets listed on the /data page</label>
+          <type>textarea</type>
+          <name>1-2-4-data-inventory-schedule-summary</name>
+          <label>Summarize the Inventory Schedule</label>
           <options/>
           <value/>
         </field>
       </fields>
       <multiple/>
     </item>
+    <item id="1.2.5">
+      <parent>1.2</parent>
+      <text>Develop Data Inventory Schedule - Milestones</text>
+      <due>17 months</due>
+      <due_date>2013/10/23</due_date>
+      <fields>
+        <field>
+          <type>text</type>
+          <name>1-2-5-data-inventory-schedule-milestones-title</name>
+          <label>Title</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>textarea</type>
+          <name>1-2-5-data-inventory-schedule-milestones-description</name>
+          <label>Description</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>text</type>
+          <name>1-2-5-data-inventory-schedule-milestones-date</name>
+          <label>Milestone Date</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>textarea</type>
+          <name>1-2-5-data-inventory-schedule-milestones-expand-description</name>
+          <label>Description of how this milestone expands the Inventory</label>
+          <options/>
+          <value/>
+        </field>		
+        <field>
+          <type>textarea</type>
+          <name>1-2-5-data-inventory-schedule-milestones-enrich-description</name>
+          <label>Description of how this milestone enriches the Inventory</label>
+          <options/>
+          <value/>
+        </field>
+        <field>
+          <type>textarea</type>
+          <name>1-2-5-data-inventory-schedule-milestones-open-description</name>
+          <label>Description of how this milestone opens the Inventory</label>
+          <options/>
+          <value/>
+        </field>
+		</fields>
+      <multiple>1</multiple>
+    </item>	
+    <item id="1.2.6">
+      <parent>1.2</parent>
+      <text>Develop Customer Feedback Process</text>
+      <due>17 months</due>
+      <due_date>2013/10/23</due_date>
+      <fields>
+        <field>
+          <type>text</type>
+          <name>1-2-6-customer-feedback-process</name>
+          <label>Describe the agency's process to engage with customers</label>
+          <options/>
+          <value/>
+        </field>
+      </fields>
+      <multiple/>
+    </item>
+    <item id="1.2.7">
+      <parent>1.2</parent>
+      <text>Develop Data Publication Process</text>
+      <due>17 months</due>
+      <due_date>2013/10/23</due_date>
+      <fields>
+        <field>
+          <type>text</type>
+          <name>1-2-7-data-publication-process</name>
+          <label>Describe the agency's data publication process</label>
+          <options/>
+          <value/>
+        </field>
+      </fields>
+      <multiple/>
+    </item>	
     <item id="2.2">
       <parent/>
       <text>Make high-value data and content in at least two existing, major customer-facing systems available through web APIs, apply metadata tagging and publish a plan to transition additional high-value systems</text>
