@@ -1,6 +1,6 @@
 {
-    "generator_version": "1.4",
-    "generated": "2012-10-23 17:36:18",
+    "generator_version": "1.5",
+    "generated": "2013-10-20 17:36:18",
     "api_version": 1,
     "items": [{
         "id": "2.1",
@@ -376,39 +376,87 @@
         }],
         "multiple": false
     }, {
-        "id": "1.2.3",
+        "id": "1.2.4",
         "parent": "1.2",
-        "text": "Operationalize Enterprise Data Inventory",
+        "text": "Develop Data Inventory Schedule - Summary",
+        "due": "17 months",
+        "due_date": "2013\/10\/23",
+        "fields": [{
+            "type": "textarea",
+            "name": "1-2-4-data-inventory-schedule-summary",
+            "label": "Summarize the Inventory Schedule",
+            "options": [],
+            "value": null
+        }],
+        "multiple": false
+    }, {
+        "id": "1.2.5",
+        "parent": "1.2",
+        "text": "Develop Data Inventory Schedule - Milestones",
         "due": "17 months",
         "due_date": "2013\/10\/23",
         "fields": [{
             "type": "text",
-            "name": "1-2-3-datasets-in-inventory",
-            "label": "Number of datasets in the Enterprise Data Inventory",
+            "name": "1-2-5-data-inventory-schedule-milestones-title",
+            "label": "Title",
+            "options": [],
+            "value": null
+        }, {
+            "type": "textarea",
+            "name": "1-2-5-data-inventory-schedule-milestones-description",
+            "label": "Description",
             "options": [],
             "value": null
         }, {
             "type": "text",
-            "name": "1-2-3-systems-in-inventory",
-            "label": "Number of systems whose datasets are in the Enterprise Data Inventory",
+            "name": "1-2-5-data-inventory-schedule-milestones-date",
+            "label": "Milestone Date",
             "options": [],
             "value": null
         }, {
-            "type": "text",
-            "name": "1-2-3-datasets-potential-public",
-            "label": "Number of datasets that can be made publicly available",
+            "type": "textarea",
+            "name": "1-2-5-data-inventory-schedule-milestones-expand-description",
+            "label": "Description of how this milestone expands the Inventory",
             "options": [],
             "value": null
         }, {
-            "type": "text",
-            "name": "1-2-3-datsets-listed",
-            "label": "Number of datasets listed on the \/data page",
+            "type": "textarea",
+            "name": "1-2-5-data-inventory-schedule-milestones-enrich-description",
+            "label": "Description of how this milestone enriches the Inventory",
             "options": [],
             "value": null
         }, {
+            "type": "textarea",
+            "name": "1-2-5-data-inventory-schedule-milestones-open-description",
+            "label": "Description of how this milestone opens the Inventory",
+            "options": [],
+            "value": null
+        }],
+        "multiple": true
+    }, {
+        "id": "1.2.6",
+        "parent": "1.2",
+        "text": "Develop Customer Feedback Process",
+        "due": "17 months",
+        "due_date": "2013\/10\/23",
+        "fields": [{
             "type": "text",
-            "name": "1-2-3-released-datasets-listed",
-            "label": "Number of released datasets listed on the \/data page",
+            "name": "1-2-6-customer-feedback-process",
+            "label": "Describe the agency's process to engage with customers",
+            "options": [],
+            "value": null
+        }],
+        "multiple": false
+    }, {
+        "id": "1.2.7",
+        "parent": "1.2",
+        "text": "Develop Data Publication Process",
+        "due": "17 months",
+        "due_date": "2013\/10\/23",
+        "fields": [{
+            "type": "textarea",
+            "name": "1-2-7-data-publication-process",
+            "label": "Describe the agency's data publication process",
             "options": [],
             "value": null
         }],
