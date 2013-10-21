@@ -521,7 +521,7 @@
           <options/>
           <value/>
         </field>
-		</fields>
+      </fields>
       <multiple>1</multiple>
     </item>	
     <item id="1.2.6">
@@ -531,7 +531,7 @@
       <due_date>2013/10/23</due_date>
       <fields>
         <field>
-          <type>text</type>
+          <type>textarea</type>
           <name>1-2-6-customer-feedback-process</name>
           <label>Describe the agency's process to engage with customers</label>
           <options/>
@@ -547,7 +547,7 @@
       <due_date>2013/10/23</due_date>
       <fields>
         <field>
-          <type>text</type>
+          <type>textarea</type>
           <name>1-2-7-data-publication-process</name>
           <label>Describe the agency's data publication process</label>
           <options/>
